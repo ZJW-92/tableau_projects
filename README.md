@@ -13,3 +13,5 @@
 ### 5. [Origin destination map](https://public.tableau.com/app/profile/zhijie.wei/viz/Origindestinationmap/Dashboard?publish=yes)
 
 - [Download data](https://www.kaggle.com/datasets/flashgordon/usa-airport-dataset)
+
+### 6. [Amazon sales dashboard](https://public.tableau.com/app/profile/zhijie.wei/viz/Amazonsalesdashboard_16822214098400/Dashboard)
