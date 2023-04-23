@@ -11,3 +11,5 @@
 ### 4. [Covid 19 analysis dashboard](https://public.tableau.com/app/profile/zhijie.wei/viz/Covid19analysisdashboard/Dashboard)
 
 ### 5. [Origin destination map](https://public.tableau.com/app/profile/zhijie.wei/viz/Origindestinationmap/Dashboard?publish=yes)
+
+- [Download data](https://www.kaggle.com/datasets/flashgordon/usa-airport-dataset)
