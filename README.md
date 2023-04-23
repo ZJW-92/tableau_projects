@@ -7,3 +7,5 @@
 ### 2.[HR analytics dashboard](https://public.tableau.com/app/profile/zhijie.wei/viz/HRanalyticsdashboard_16819654060230/Dashboard)
 
 ### 3.[Data Science salary dashboard](https://public.tableau.com/app/profile/zhijie.wei/viz/DataSciencesalarydashboard/Dashboard)
+
+### 4. [Covid 19 analysis dashboard](https://public.tableau.com/app/profile/zhijie.wei/viz/Covid19analysisdashboard/Dashboard)
